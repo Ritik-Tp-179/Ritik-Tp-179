@@ -1,4 +1,3 @@
-<img  src=""  />
 
 <img src="https://camo.githubusercontent.com/f401c2aa72bf748bd1aae72b2768d9ff07dc8ec2131780f36fa689bdd6f2c5fc/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30662f32352f65342f30663235653436363863316337373430623565643431383335333339643637662e676966"   />
 
@@ -11,12 +10,13 @@
 <h3 align="center">A passionate web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritik-jaiswal-179&label=Profile%20views&color=0e75b6&style=flat" alt="ritik-jaiswal-179" /> </p>
+<img align="right" height="200px" width="300px" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
+
 - 🔭 I’m currently working on **YoutubeClone**
 
 - 🌱 I’m currently learning **reactjs, nodejs and also java**
 
 - 👨‍💻 All of my projects are available at [https://ritikjaiswal-portfolio.netlify.com](https://ritikjaiswal-portfolio.netlify.com)
-<img align="right" height="200px" width="300px" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
 
 - 📫 How to reach me **ritiktp@gmail.com**
 
